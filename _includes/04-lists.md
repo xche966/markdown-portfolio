@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+Things I like
+* Walks 🚶‍♀️
+  * beaches 
+  * trails 
+  * tracks 
+* Food
+  * sweets 🍬
+  * chinese food 🍚
