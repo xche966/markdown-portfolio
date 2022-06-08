@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+
+*Today marks the first day using GitHub*
+
+**Exciting**
+
+*I think using **Markdown** is really interesting and cool*
